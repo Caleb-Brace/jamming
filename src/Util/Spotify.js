@@ -1,5 +1,5 @@
 const clientId = '9cedc34c46f44758b59bd8ab4649a5f4';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'http://www.lagi-code-camp.tech';
 let accessToken;
 
 const Spotify = {
