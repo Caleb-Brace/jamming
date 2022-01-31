@@ -1,3 +1,7 @@
+A web application used to remotely update your spotify playlists. Uses the spotify API to authorize the connection between the app
+and the users account, and search the song library. As a react application, it uses state hooks to process value changes as well as pass base states between components. 
+Relatively basic CSS styling and minimal static HTML, as it is all dynamically rendered by the react library.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
